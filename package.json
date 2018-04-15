@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "description": "\"# jodichemescpa\" \r css grid",
-  "main": "app.js",
+  "main": "index.html",
   "devDependencies": {},
   "repository": {
     "type": "git",
